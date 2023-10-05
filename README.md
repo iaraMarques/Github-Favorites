@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="center">
- Esse projeto é uma aplicação web simples que permite aos usuários pesquisar perfis do Github e exibir as informações como quantidade de repositórios e seguidores, junto com um link que leva para o perfil da pessoa no github.
+ Esse projeto é uma aplicação web simples que permite aos usuários pesquisar perfis do Github e exibir as informações como quantidade de repositórios e seguidores, junto com um link que leva para o perfil do usuário no github.
 </p>
 
 <h2> Conceitos aprendidos em aula</h2>
